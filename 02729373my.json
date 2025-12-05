@@ -1,6 +1,6 @@
 {
   "settings": {
-    "Shutdown": true,
+    "Shutdown": false,
     "ShutdownMsg": "Morendo Jir Najis"
   }
 }
