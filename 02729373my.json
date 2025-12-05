@@ -1,6 +1,6 @@
 {
   "settings": {
-    "Shutdown": false,
-    "ShutdownMsg": "Morendo Jir Najis Gw Mah"
+    "Shutdown": true,
+    "ShutdownMsg": "Server dimatikan oleh admin."
   }
 }
